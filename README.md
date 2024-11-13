@@ -15,6 +15,6 @@ This application aims to address these challenges by allowing users to effortles
 | Cloud Computing  | Eja Sapario | C529B4KY1238 | Politeknik Negeri Pontianak  |
 | Mobile Development  | Farrel Satriano | A117B4KY1424 | Institut Teknologi Nasional Bandung |
 | Mobile Development  | Muhammad Axel Syahwin | A117B4KY2755 | Institut Teknologi Nasional Bandung |
-| Machine Learning  | Muhammad Rizki Putra Pratama | M299B4KY3061 | Universitas Pendidikan Indonesia  |
 | Machine Learning  | Rizal Ahmad Saepulloh | M117B4KY3900 | Institut Teknologi Nasional Bandung  |
 | Machine Learning  | Muhammad Rusqi Ash Shiddieqy | M322B4KY3077 | Universitas Syiah Kuala  |
+| Machine Learning  | Muhammad Rizki Putra Pratama | M299B4KY3061 | Universitas Pendidikan Indonesia  |
