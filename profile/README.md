@@ -1,5 +1,5 @@
 # CaloCare. Mindful eating, Happier Living
-
+![Alt text]((https://github.com/CaloCare/.github/blob/main/CaloCare.png))
 CaloCare is an innovative app designed to help users achieve healthier eating habits by making nutrition information accessible and actionable. Many people want to improve their diet but struggle to know what foods best support their goals, such as maintaining a balanced diet or managing calorie intake. CaloCare addresses this by allowing users to easily track and analyze the nutritional content of the foods they consume, including packaged and freshly prepared foods. With an easy-to-use interface and machine learning-driven food recognition features, CaloCare enables users to better understand their food choices and support healthier living.
 
 # Background
